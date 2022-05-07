@@ -1,6 +1,5 @@
 # ErbiumV2
 Fortnite STW In Game for Versions 1.8 - 4.1
-
 ## Tested Versions
 1.8: Working
 <br>
@@ -33,3 +32,8 @@ Nocturno: Inspiration and Base In Game
 Ultimanite: Quickbars/Inventory
 <br>
 ImGui: Library used for Modding Menu
+
+## Contributing
+You're welcome to Contribute, just make sure to make a pull request
+<br>
+Also someone please fix 7.0+ After the cinematic!
