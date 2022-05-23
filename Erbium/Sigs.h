@@ -6,7 +6,7 @@
 #define Free_G "48 85 C9 74 2E 53"
 #define GObjects_G "49 63 C8 48 8D 14 40 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8D 04 D1" //10
 
-#define FNTS_C2 "48 89 5C 24 ?? 55 56 57 48 8B EC 48 83 EC 30 8B 01 48 8B F1 44 8B 49 04 8B F8"
+#define FNTS_C2 "48 89 5C 24 ? 55 56 57 48 8B EC 48 83 EC 30 8B 01 48 8B F1 44 8B 49 04 8B F8"
 #define SpawnActor_C2 "53 56 57 48 83 EC 70 48 8B 05 ? ? ? ? 48 33 C4 48 89 44 24 60 0F 28 1D ? ? ? ? 0F 57 D2 48 8B B4 24 B0"
 #define GWorld_C2 "48 89 05 ? ? ? ? 48 8B B6 ? ? ? ?" //3
 
